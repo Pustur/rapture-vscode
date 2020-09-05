@@ -1,0 +1,21 @@
+{
+    "name": "rapture",
+    "displayName": "Rapture",
+    "description": "A dark blue theme with bright accents inspired by the fictional city of Rapture",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rapture",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rapture-color-theme.json"
+            }
+        ]
+    }
+}
