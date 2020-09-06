@@ -1,21 +1,31 @@
 {
-    "name": "rapture",
-    "displayName": "Rapture",
-    "description": "A dark blue theme with bright accents inspired by the fictional city of Rapture",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.48.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Rapture",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Rapture-color-theme.json"
-            }
-        ]
-    }
+  "name": "rapture-vscode",
+  "displayName": "Rapture",
+  "publisher": "Pustur",
+  "icon": "img/logo.jpg",
+  "repository": {
+    "url": "https://github.com/Pustur/rapture-vscode"
+  },
+  "galleryBanner": {
+    "color": "#021e22",
+    "theme": "dark"
+  },
+  "license": "MIT",
+  "description": "A dark blue theme with bright accents inspired by the fictional city of Rapture",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rapture",
+        "uiTheme": "vs-dark",
+        "path": "themes/Rapture-color-theme.json"
+      }
+    ]
+  }
 }

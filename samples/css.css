@@ -1,0 +1,26 @@
+:root {
+  --size-list-gap: 20px;
+  --size-padding: 10px;
+}
+
+input[type='checkbox'] {
+  background-image: url(img/checkbox.png);
+}
+
+.my-list > li + li {
+  margin-top: var(--size-list-gap);
+}
+
+.circle::before {
+  box-shadow: 0 1px 2px #4b4c5240, 0 1px 3px #4b4c5240;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+/* TODO: change breakpoint */
+@media screen and (min-width: 700px) {
+  #my-id {
+    font-family: 'Courier New', Courier, monospace;
+    padding: calc(var(--size-padding) * 2);
+  }
+}

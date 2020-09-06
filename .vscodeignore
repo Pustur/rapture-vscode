@@ -1,4 +1,7 @@
-.vscode/**
-.vscode-test/**
-.gitignore
-vsc-extension-quickstart.md
+# Ignore everything
+*
+*/**
+
+# Whitelist needed files
+!themes/*
+!img/logo.jpg

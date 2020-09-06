@@ -1,13 +1,53 @@
-# README
-## This is the README for your extension "rapture"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Rapture Theme for VSCode
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+> A dark blue theme with bright accents inspired by the fictional city of Rapture
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Screenshots
 
-**Enjoy!**
+### Editor
+
+![Editor](img/screenshots/editor.png)
+
+---
+
+### JavaScript
+
+![JavaScript](img/screenshots/js.png)
+
+---
+
+### HTML
+
+![HTML](img/screenshots/html.png)
+
+---
+
+### CSS
+
+![CSS](img/screenshots/css.png)
+
+## Font
+
+The font used in the screenshots is [Inconsolata](https://levien.com/type/myfonts/inconsolata.html)
+
+## Supported applications
+
+Also available for:
+
+- [iTerm2](https://github.com/mbadolato/iTerm2-Color-Schemes#rapture)
+
+## Credits
+
+Thanks to [RockLou](https://www.deviantart.com/rocklou) for the awesome logo, taken from [his wallpaper](http://fav.me/d9mvgz7)
+
+## Contributing
+
+Found an issue? Your favourite language doesn't look right? Feel free to [open an issue on GitHub](https://github.com/Pustur/rapture-vscode/issues)!
+
+## Changelog
+
+[CHANGELOG](CHANGELOG.md)
+
+## License
+
+[MIT](LICENSE)
