@@ -4,4 +4,5 @@
 
 # Whitelist needed files
 !themes/*
-!img/logo.jpg
+!img/**/*{png,jpg}
+!README.md
