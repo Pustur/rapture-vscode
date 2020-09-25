@@ -201,8 +201,8 @@
     // "editorOverviewRuler.rangeHighlightForeground": "#12345600", // WHERE?
     "editorOverviewRuler.selectionHighlightForeground": "#7afde140",
     "editorOverviewRuler.warningForeground": "#e6a42a",
-    "editorOverviewRuler.wordHighlightForeground": "#00000000",
-    "editorOverviewRuler.wordHighlightStrongForeground": "#00000000",
+    "editorOverviewRuler.wordHighlightForeground": "#7afde140",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#7afde140",
 
     "editorPane.background": "#0d1721",
 
