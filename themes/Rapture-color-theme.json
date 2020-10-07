@@ -647,7 +647,7 @@
       "name": "Pink",
       "scope": [
         "entity.name.tag.css",
-        "entity.name.tag.wildcard.css",
+        "source.css entity.name.tag.wildcard",
         "source.css variable",
         "variable.language.special.self.python",
         "variable.language.this.js",
