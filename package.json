@@ -12,7 +12,7 @@
   },
   "license": "MIT",
   "description": "A dark blue theme with bright accents inspired by the fictional city of Rapture",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.48.0"
   },
