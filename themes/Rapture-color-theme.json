@@ -40,6 +40,15 @@
     "button.secondaryForeground": "#7afde1",
     "button.secondaryHoverBackground": "#426185",
 
+    "charts.blue": "#6c9bf5",
+    // "charts.foreground": "#12345600",
+    "charts.green": "#7afde1",
+    // "charts.lines": "#12345600",
+    "charts.orange": "#ff9b49",
+    "charts.purple": "#c45ace",
+    "charts.red": "#fc644d",
+    "charts.yellow": "#fff09b",
+
     "checkbox.background": "#7afde1",
     "checkbox.border": "#7afde1",
     "checkbox.foreground": "#111e2a",
@@ -238,6 +247,8 @@
     "gitDecoration.deletedResourceForeground": "#fc644d",
     "gitDecoration.ignoredResourceForeground": "#426185",
     "gitDecoration.modifiedResourceForeground": "#6c9bf5",
+    "gitDecoration.stageDeletedResourceForeground": "#fc644d",
+    "gitDecoration.stageModifiedResourceForeground": "#6c9bf5",
     // "gitDecoration.submoduleResourceForeground": "#12345600",
     "gitDecoration.untrackedResourceForeground": "#7afde1",
 
@@ -323,7 +334,9 @@
     // "notebook.focusedCellBackground": "#12345600",
     "notebook.focusedCellBorder": "#00000000",
     // "notebook.focusedEditorBorder": "#304b66",
+    // "notebook.focusedRowBorder": "#12345600",
     "notebook.outputContainerBackgroundColor": "#111e2a",
+    // "notebook.rowHoverBackground": "#12345600",
     // "notebook.symbolHighlightBackground": "#12345600", // WHERE?
     // "notebookScrollbarSlider.activeBackground": "#12345600",
     // "notebookScrollbarSlider.background": "#12345600",
@@ -405,6 +418,7 @@
     "settings.dropdownBorder": "#547292",
     "settings.dropdownForeground": "#c0c9e5",
     // "settings.dropdownListBorder": "#12345600", // WHERE?
+    // "settings.focusedRowBackground": "#12345600",
     // "settings.headerForeground": "#12345600",
     "settings.modifiedItemIndicator": "#6c9bf580",
     // "settings.numberInputBackground": "#12345600",
@@ -487,6 +501,7 @@
     "tab.inactiveBackground": "#111e2a",
     "tab.inactiveForeground": "#6e93bb",
     // "tab.inactiveModifiedBorder": "#12345600",
+    "tab.lastPinnedBorder": "#304b66",
     // "tab.unfocusedActiveBackground": "#12345600",
     "tab.unfocusedActiveBorder": "#00000000",
     // "tab.unfocusedActiveBorderTop": "#12345600",
