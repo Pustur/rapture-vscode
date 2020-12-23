@@ -121,7 +121,7 @@
     "editor.inactiveSelectionBackground": "#7afde120",
     "editor.lineHighlightBackground": "#7afde107",
     // "editor.lineHighlightBorder": "#12345600",
-    "editor.onTypeRenameBackground": "#ff055040",
+    "editor.linkedEditingBackground": "#ff055040",
     // "editor.rangeHighlightBackground": "#12345600",
     // "editor.rangeHighlightBorder": "#12345600",
     "editor.selectionBackground": "#7afde120",
