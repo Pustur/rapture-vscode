@@ -148,6 +148,7 @@
     // "editorCursor.background": "#12345600",
     "editorCursor.foreground": "#fff",
 
+    // "editorError.background": "#12345600",
     // "editorError.border": "#12345600",
     "editorError.foreground": "#fc644d",
 
@@ -179,6 +180,7 @@
     "editorIndentGuide.activeBackground": "#304b6680",
     "editorIndentGuide.background": "#304b6640",
 
+    // "editorInfo.background": "#12345600",
     // "editorInfo.border": "#12345600",
     // "editorInfo.foreground": "#12345600",
 
@@ -226,6 +228,7 @@
     // "editorUnnecessaryCode.border": "#12345600",
     "editorUnnecessaryCode.opacity": "#00000060",
 
+    // "editorWarning.background": "#12345600",
     // "editorWarning.border": "#12345600",
     "editorWarning.foreground": "#f1b65c",
 
@@ -337,6 +340,7 @@
     // "notebook.focusedRowBorder": "#12345600",
     "notebook.outputContainerBackgroundColor": "#111e2a",
     // "notebook.rowHoverBackground": "#12345600",
+    // "notebook.selectedCellBorder": "#12345600",
     // "notebook.symbolHighlightBackground": "#12345600", // WHERE?
     // "notebookScrollbarSlider.activeBackground": "#12345600",
     // "notebookScrollbarSlider.background": "#12345600",
@@ -398,6 +402,8 @@
     "quickInput.foreground": "#c0c9e5",
     // "quickInputTitle.background": "#12345600", // WHERE?
 
+    "sash.hoverBorder": "#304b66",
+
     // "scm.providerBorder": "#12345600", // WHERE?
 
     "scrollbar.shadow": "#00000090",
@@ -448,6 +454,8 @@
     "statusBar.noFolderForeground": "#c0c9e5",
 
     // "statusBarItem.activeBackground": "#12345600",
+    "statusBarItem.errorBackground": "#fc644d",
+    "statusBarItem.errorForeground": "#fff",
     // "statusBarItem.hoverBackground": "#12345600",
     // "statusBarItem.prominentBackground": "#12345600",
     // "statusBarItem.prominentForeground": "#12345600",
