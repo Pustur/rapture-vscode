@@ -180,6 +180,9 @@
     "editorIndentGuide.activeBackground": "#304b6680",
     "editorIndentGuide.background": "#304b6640",
 
+    // "editorInlineHint.background": "#12345600", // WHERE?
+    // "editorInlineHint.foreground": "#12345600", // WHERE?
+
     // "editorInfo.background": "#12345600",
     // "editorInfo.border": "#12345600",
     // "editorInfo.foreground": "#12345600",
@@ -244,12 +247,14 @@
     "extensionButton.prominentBackground": "#67e0c6",
     "extensionButton.prominentForeground": "#111e2a",
     "extensionButton.prominentHoverBackground": "#7afde1",
+    "extensionIcon.starForeground": "#7afde1",
 
     "gitDecoration.addedResourceForeground": "#7afde1",
     "gitDecoration.conflictingResourceForeground": "#ff4fa1",
     "gitDecoration.deletedResourceForeground": "#fc644d",
     "gitDecoration.ignoredResourceForeground": "#426185",
     "gitDecoration.modifiedResourceForeground": "#6c9bf5",
+    "gitDecoration.renamedResourceForeground": "#c45ace",
     "gitDecoration.stageDeletedResourceForeground": "#fc644d",
     "gitDecoration.stageModifiedResourceForeground": "#6c9bf5",
     // "gitDecoration.submoduleResourceForeground": "#12345600",
@@ -285,10 +290,12 @@
     // "list.filterMatchBorder": "#12345600",
     "list.focusBackground": "#233749",
     "list.focusForeground": "#fff",
+    // "list.focusOutline": "#12345600",
     "list.highlightForeground": "#6c9bf5",
     "list.hoverBackground": "#111e2a",
     "list.hoverForeground": "#fff",
     "list.inactiveFocusBackground": "#162736",
+    // "list.inactiveFocusOutline": "#12345600",
     "list.inactiveSelectionBackground": "#162736",
     // "list.inactiveSelectionForeground": "#12345600",
     "list.invalidItemForeground": "#fc644d",
@@ -335,11 +342,13 @@
     "notebook.cellStatusBarItemHoverBackground": "#162736",
     "notebook.cellToolbarSeparator": "#304b6680",
     // "notebook.focusedCellBackground": "#12345600",
-    "notebook.focusedCellBorder": "#00000000",
+    "notebook.focusedCellBorder": "#92beee80",
     // "notebook.focusedEditorBorder": "#304b66",
     // "notebook.focusedRowBorder": "#12345600",
+    "notebook.inactiveFocusedCellBorder": "#92beee80",
     "notebook.outputContainerBackgroundColor": "#111e2a",
     // "notebook.rowHoverBackground": "#12345600",
+    // "notebook.selectedCellBackground": "#12345600",
     // "notebook.selectedCellBorder": "#12345600",
     // "notebook.symbolHighlightBackground": "#12345600", // WHERE?
     // "notebookScrollbarSlider.activeBackground": "#12345600",
@@ -400,6 +409,7 @@
 
     // "quickInput.background": "#12345600",
     "quickInput.foreground": "#c0c9e5",
+    "quickInput.list.focusBackground": "#233749",
     // "quickInputTitle.background": "#12345600", // WHERE?
 
     "sash.hoverBorder": "#304b66",
@@ -560,12 +570,17 @@
     "titleBar.inactiveForeground": "#92beee80",
 
     "tree.indentGuidesStroke": "#304b66",
+    // "tree.tableColumnsBorder": "#12345600", // WHERE?
 
     // "walkThrough.embeddedEditorBackground": "#12345600",
 
     // "welcomePage.background": "#12345600",
     // "welcomePage.buttonBackground": "#12345600",
     "welcomePage.buttonHoverBackground": "#162736",
+    "welcomePage.progress.background": "#233749",
+    "welcomePage.progress.foreground": "#7afde1",
+    "welcomePage.tileBackground": "#0d1721",
+    "welcomePage.tileHoverBackground": "#162736",
 
     "widget.shadow": "#00000090"
 
