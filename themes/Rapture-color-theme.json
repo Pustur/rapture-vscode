@@ -180,9 +180,6 @@
     "editorIndentGuide.activeBackground": "#304b6680",
     "editorIndentGuide.background": "#304b6640",
 
-    // "editorInlineHint.background": "#12345600", // WHERE?
-    // "editorInlineHint.foreground": "#12345600", // WHERE?
-
     // "editorInfo.background": "#12345600",
     // "editorInfo.border": "#12345600",
     // "editorInfo.foreground": "#12345600",
@@ -261,8 +258,6 @@
     "gitDecoration.untrackedResourceForeground": "#7afde1",
 
     "icon.foreground": "#6e93bb",
-
-    "imagePreview.border": "#304b66",
 
     "input.background": "#162736",
     "input.border": "#304b66",
@@ -409,7 +404,7 @@
 
     // "quickInput.background": "#12345600",
     "quickInput.foreground": "#c0c9e5",
-    "quickInput.list.focusBackground": "#233749",
+    "quickInputList.focusBackground": "#233749",
     // "quickInputTitle.background": "#12345600", // WHERE?
 
     "sash.hoverBorder": "#304b66",
