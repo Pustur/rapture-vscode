@@ -292,9 +292,9 @@
     "inputValidation.warningForeground": "#fff",
 
     "keybindingLabel.background": "#111e2a",
-    "keybindingLabel.border": "#7afde130",
-    "keybindingLabel.bottomBorder": "#7afde1",
-    "keybindingLabel.foreground": "#7afde1",
+    "keybindingLabel.border": "#92beee30",
+    "keybindingLabel.bottomBorder": "#6e93bb",
+    "keybindingLabel.foreground": "#c0c9e5",
 
     "list.activeSelectionBackground": "#233749",
     "list.activeSelectionForeground": "#fff",
