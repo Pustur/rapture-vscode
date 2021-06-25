@@ -1,6 +1,8 @@
 # Ignore everything
-/*
+*
+*/**
 
 # Whitelist needed files
-!themes
-!img
+!themes/*
+!img/**/*{png,jpg}
+!README.md
