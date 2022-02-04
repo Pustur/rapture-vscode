@@ -626,6 +626,7 @@
       "name": "Shade #2",
       "scope": [
         "entity.other.attribute-name.class.pug",
+        "markup.strikethrough.markdown",
         "punctuation.definition.tag",
         "source.json punctuation.support.type.property-name"
       ],
@@ -847,6 +848,7 @@
     {
       "name": "Orange",
       "scope": [
+        "invalid.deprecated.entity.other.attribute-name.html",
         "source.css constant.numeric",
         "source.css entity.other.attribute-name",
         "string.regexp meta.assertion",
@@ -873,11 +875,27 @@
 
     /* WITH FONT STYLES */
     {
-      "name": "Deprecated",
-      "scope": ["invalid.deprecated.entity.other.attribute-name.html"],
+      "name": "Font Bold",
+      "scope": [
+        "invalid.deprecated.entity.other.attribute-name.html",
+        "markup.bold.markdown"
+      ],
       "settings": {
-        "foreground": "#ff9b49",
         "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Font Italic",
+      "scope": ["markup.italic.markdown"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Font Strikethrough",
+      "scope": ["markup.strikethrough.markdown"],
+      "settings": {
+        "fontStyle": "strikethrough"
       }
     },
     {
