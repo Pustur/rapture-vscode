@@ -361,11 +361,9 @@
     // "notebook.focusedCellBackground": "#12345600",
     "notebook.focusedCellBorder": "#92beee80",
     // "notebook.focusedEditorBorder": "#304b66",
-    // "notebook.focusedRowBorder": "#12345600",
     "notebook.inactiveFocusedCellBorder": "#92beee80",
     "notebook.inactiveSelectedCellBorder": "#304b66",
     "notebook.outputContainerBackgroundColor": "#111e2a",
-    // "notebook.rowHoverBackground": "#12345600",
     // "notebook.selectedCellBackground": "#12345600",
     // "notebook.selectedCellBorder": "#12345600",
     // "notebook.symbolHighlightBackground": "#12345600", // WHERE?
@@ -601,13 +599,11 @@
     // "walkThrough.embeddedEditorBackground": "#12345600",
 
     // "welcomePage.background": "#12345600",
-    // "welcomePage.buttonBackground": "#12345600",
-    "welcomePage.buttonHoverBackground": "#162736",
     "welcomePage.progress.background": "#233749",
     "welcomePage.progress.foreground": "#7afde1",
     "welcomePage.tileBackground": "#0d1721",
     "welcomePage.tileHoverBackground": "#162736",
-    // "welcomePage.tileShadow.": "#12345600", // WHERE?
+    // "welcomePage.tileShadow": "#12345600", // WHERE?
 
     "widget.shadow": "#00000090"
 
