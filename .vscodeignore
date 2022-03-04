@@ -1,6 +1,8 @@
 # Ignore everything
-/*
+*
+*/**
 
 # Whitelist needed files
 !themes
 !img
+!LICENSE
