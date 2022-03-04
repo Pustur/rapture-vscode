@@ -5,6 +5,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.6.0] - 2022-03-04
+
+### Added
+
+- Custom colors for shell decorations
+- Color for selection occurrences in minimap
+- Color for status bar focus
+
+### Changed
+
+- Improved diff editor colors
+
+### Fixed
+
+- `.vscodeignore` file to prevent releasing useless files
+
 ## [1.5.0] - 2022-02-06
 
 ### Added
@@ -105,6 +121,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release
 
+[1.6.0]: https://github.com/Pustur/rapture-vscode/compare/1.5.0...1.6.0
 [1.5.0]: https://github.com/Pustur/rapture-vscode/compare/1.4.0...1.5.0
 [1.4.0]: https://github.com/Pustur/rapture-vscode/compare/1.3.0...1.4.0
 [1.3.0]: https://github.com/Pustur/rapture-vscode/compare/1.2.0...1.3.0
