@@ -6,6 +6,7 @@
     // "contrastActiveBorder": "#12345600",
     // "contrastBorder": "#12345600",
     "descriptionForeground": "#92beeea0",
+    // "disabledForeground": "#12345600",
     "errorForeground": "#fc644d",
     "focusBorder": "#92beee80",
     "foreground": "#c0c9e5",
@@ -190,6 +191,9 @@
 
     "editorGroup.border": "#304b66",
     "editorGroup.dropBackground": "#42618540",
+    // "editorGroup.dropIntoPromptBackground": "#12345600",
+    // "editorGroup.dropIntoPromptBorder": "#12345600",
+    // "editorGroup.dropIntoPromptForeground": "#12345600",
     // "editorGroup.emptyBackground": "#12345600",
     // "editorGroup.focusedEmptyBorder": "#12345600",
 
@@ -276,6 +280,7 @@
     // "editorSuggestWidget.selectedIconForeground": "#12345600",
     // "editorSuggestWidgetStatus.foreground": "#12345600",
 
+    // "editorUnicodeHighlight.background": "#12345600",
     "editorUnicodeHighlight.border": "#e6a42a",
 
     // "editorUnnecessaryCode.border": "#12345600",
@@ -300,6 +305,8 @@
     "extensionIcon.preReleaseForeground": "#426185",
     "extensionIcon.starForeground": "#7afde1",
     // "extensionIcon.verifiedForeground": "#12345600",
+    "extensionSponsorButton.background": "#7afde1b0",
+    "extensionSponsorButton.hoverBackground": "#7afde1",
 
     "gitDecoration.addedResourceForeground": "#7afde1",
     "gitDecoration.conflictingResourceForeground": "#ff4fa1",
