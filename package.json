@@ -11,8 +11,11 @@
     "theme": "dark"
   },
   "license": "MIT",
+  "sponsor": {
+    "url": "https://buymeacoffee.com/Pustur"
+  },
   "description": "A dark blue theme with bright accents inspired by the fictional city of Rapture",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "engines": {
     "vscode": "^1.48.0"
   },
